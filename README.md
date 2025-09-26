@@ -91,3 +91,12 @@ python web_app.py
 ├── .env.example
 └── README.md
 ```
+
+## Alunos
+
+- Leonardo Ibiapina
+- Gabriel Moraes
+- Ênio Bazante
+- Cauã Jordão
+- João Marcolino
+- Victor Barbosa
